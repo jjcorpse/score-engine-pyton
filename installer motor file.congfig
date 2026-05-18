@@ -1,0 +1,4 @@
+start "cheek system vendor #1=for winndows " return=1 
+start "https://www.python.org/ftp/python/3.15.0/python-3.15.0b1-amd64.exe"" stopp̈́ 
+install flask py 
+install tinker
